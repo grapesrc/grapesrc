@@ -4,7 +4,7 @@ I mainly use javascript ⛏.
 
 I can codeing javascript and python 📝.
 
-I'm interested in to make a geme and Operating System. 🛠.
+I like linux.❤
 
 My homepage is [https://rihitosan.com/](https://rihtosan.com/)
 
