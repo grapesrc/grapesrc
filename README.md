@@ -6,8 +6,6 @@ I can codeing javascript and python 📝.
 
 I like linux.🐧
 
-I love open source.❤
-
 I live in Saitama.🏠
 
 My homepage is [https://rihitosan.com/](https://rihtosan.com/)
