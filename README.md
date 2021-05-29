@@ -1,12 +1,8 @@
 ### Hi,I'm Rihito 👋
 
-I mainly use javascript ⛏.
+I mainly use python
 
 I can codeing javascript and python 📝.
-
-I like linux.🐧
-
-I live in Saitama.🏠
 
 My homepage is [https://rihitosan.com/](https://rihtosan.com/)
 
