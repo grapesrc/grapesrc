@@ -4,7 +4,7 @@ I mainly use python
 
 I can codeing javascript and python 📝.
 
-My homepage is [https://rihitosan.com/](https://rihtosan.com/)
+My homepage is [https://rihitosan.com/](https://rihitosan.com/)
 
 Contact : contact☆rihitosan.com
 
