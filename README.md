@@ -1,6 +1,6 @@
 ### Hi,I'm Rihito 👋
 
-I mainly use python
+I usually use Python.
 
 I can codeing javascript and python 📝.
 
