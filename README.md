@@ -10,6 +10,4 @@ Contact : contact☆rihitosan.com
 
 Don't send mail: rihitosagime@gmail.com
 
-![Github Profile Prompt](https://gitpro-prompt.rihitosan.com/rihitosan)
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=rihitosan)
