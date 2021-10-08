@@ -9,6 +9,11 @@ My homepage is [https://rihitosan.com/](https://rihitosan.com/)
 Contact : contact☆rihitosan.com
 
 Don't send mail: rihitosagime@gmail.com
+<br><br>
+
+```
+![gitpro prompt](https://gitpro-prompt.rihitosan.com/[userid])
+```
 
 ![gitpro prompt](https://gitpro-prompt.rihitosan.com/rihitosan)
 
