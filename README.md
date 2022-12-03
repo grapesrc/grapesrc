@@ -2,13 +2,12 @@
 
 I usually use Python.
 
-I can codeing javascript and python 📝.
+I can code javascript and python 📝.
 
 My homepage is [https://rihitosan.com/](https://rihitosan.com/)
 
-Contact : contact☆rihitosan.com
+Contact : contact(at)rihitosan.com
 
-Don't send mail: rihitosagime@gmail.com
 <br><br>
 
 ```
