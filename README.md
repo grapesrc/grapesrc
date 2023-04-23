@@ -13,6 +13,16 @@ Contact : contact(at)rihitosan.com
 
 <br>
 
+### Comminuty group:
+
+<a href="https://shigle.net/"><img style="width:5em;" src="https://raw.githubusercontent.com/shigLe-dev/shigLeCreatorsPack/main/shigle_logo.svg"></a>
+
+[github](https://github.com/shigle-dev)
+
+<br>
+
+### cards
+
 ![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihitosan&theme=2077)
 
 ```
