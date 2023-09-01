@@ -1,11 +1,11 @@
-### Hi,I'm Rihito 👋
+### Hi,there 👋
 
 
 Programming language📝: python,javascript,C#
 
 <br>
 
-My homepage: [https://rihitosan.com/](https://rihitosan.com/)
+My homepage: [shigle.net](https://shigle.net/)
 
 <br>
 
