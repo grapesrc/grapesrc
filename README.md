@@ -9,7 +9,7 @@ My homepage: [shigle.net](https://shigle.net/)
 
 <br>
 
-Contact : contact(at)rihitosan.com
+Contact : contact(at)shigle.com
 
 <br>
 
